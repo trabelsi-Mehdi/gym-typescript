@@ -9,10 +9,10 @@ module.exports = {
         "gray-100": "#DFCCCC",
         "gray-500": "#5E0000",
         "primary-100": "#F5F5F5",
-        "primary-300": "#FFA6A3",
-        "primary-500": "#FF6B66",
-        "secondary-400": "#FFCD5B",
-        "secondary-500": "#FFC132",
+        "primary-300": "#FFA6A3",// rose
+        "primary-500": "#FF6B66",// rose
+        "secondary-400": "#FFCD5B",//yellow fetih
+        "secondary-500": "#FFC132",//yellow a8me9 chwaya
       },
       backgroundImage: (theme) => ({
         "gradient-yellowred":
